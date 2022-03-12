@@ -1,17 +1,17 @@
 /** light theme **/
 
-$light-background-color: #fff;
+$light-background-color: #eee8d5;
 
 $light-font-color: #161209;
-$light-font-secondary-color: #a9a9b3;
+$light-font-secondary-color: #93a1a1;
 
 $light-navbar-active-color: #161209;
 
 $light-global-link-color: #161209;
-$light-global-link-hover-color:#2d96bd;
+$light-global-link-hover-color:#2aa198;
 
-$light-post-link-color: #2d96bd;
-$light-post-link-hover-color:#ef3982;
+$light-post-link-color: #2aa198;
+$light-post-link-hover-color:#859900;
 
 $light-pagination-link-color : #2d96bd;
 $light-pagination-link-active-color: #000;
@@ -22,10 +22,11 @@ $light-border-color: #dcdcdc;
 
 /** dark theme **/
 
-$dark-background-color: #292a2d;
+/** $dark-background-color: #292a2d; **/
+$dark-background-color: #002b36;
 
-$dark-font-color: #a9a9b3;
-$dark-font-secondary-color: #87878d;
+$dark-font-color: #93a1a1;
+$dark-font-secondary-color: #839496;
 
 $dark-navbar-active-color: #fff;
 
@@ -38,4 +39,4 @@ $dark-post-link-hover-color:#fff;
 $dark-pagination-link-color : #a9a9b3;
 $dark-pagination-link-active-color: #fff;
 
-$dark-border-color: #4a4b50;
+$dark-border-color: #073642;
